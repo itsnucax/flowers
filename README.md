@@ -21,7 +21,7 @@ El proyecto consta de una página HTML en la que se muestra un "regalo" que pued
 
 4. ## 🌐 Demo
 Puedes ver una demo en el siguiente enlace:
-[Ver Demo](itsnux.dev)
+[Ver Demo](https://gift.itsnux.dev/))
 
 ## 💙 Contribución
 Si deseas mejorar este proyecto, eres bienvenido a realizar un *fork* y enviar tus sugerencias.
